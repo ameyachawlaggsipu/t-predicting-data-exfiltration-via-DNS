@@ -39,6 +39,3 @@ For a detailed explanation of the methodologies, analysis, and results, please r
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Acknowledgments
-- University of Ottawa for providing the dataset and resources.
-- Contributors to the project for their insights and expertise.
